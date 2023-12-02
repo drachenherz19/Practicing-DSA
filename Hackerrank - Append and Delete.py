@@ -1,4 +1,4 @@
-def appendAndDelete(s, t, k):
+def AppendAndDelete(s, t, k):
     if len(s) + len(t) <= k:
         return 'Yes'
     
